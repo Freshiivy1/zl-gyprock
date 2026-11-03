@@ -79,7 +79,7 @@ export default function Navbar() {
               1300 000 000
             </a>
             <Link to="/contact" className="btn-primary !px-6 !py-3">
-              Get a Free Quote
+              Get a Free Quote Today
             </Link>
           </div>
 
